@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IsServerOnline</string>
+    <string name="l_tfen_bekleyin">Lütfen Bekleyin...</string>
+    <string name="loading">Loading...</string>
+    <string name="connect_to_socket_server">Connect To Socket Server</string>
+    <string name="checking_server">Checking Server</string>
+
+    <string name="server_is_online">Server is Online</string>
+    <string name="server_is_offline">Server is Offline</string>
+    <string name="y_ntem_3_connect">Yöntem 3 Connect</string>
+    <string name="y_ntem_2_connect">Yöntem 2 Connect</string>
+
+</resources>
