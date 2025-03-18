@@ -40,9 +40,9 @@ android {
 
 
 tasks.withType<JavaCompile> {
-     options.compilerArgs.add("-Xlint:unchecked")
-     options.compilerArgs.add("-Werror")
-      options.compilerArgs.add("-Xlint:deprecation")
+    options.compilerArgs.add("-Xlint:unchecked")
+    options.compilerArgs.add("-Werror")
+    options.compilerArgs.add("-Xlint:deprecation")
 
 }
 
